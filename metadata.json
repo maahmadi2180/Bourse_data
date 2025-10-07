@@ -1,0 +1,5 @@
+{
+  "name": "Google Sheet Dynamic Charts",
+  "description": "A web application that fetches data from a public Google Sheet and generates dynamic, interactive line charts for each data column against a date column, displayed in a responsive grid.",
+  "requestFramePermissions": []
+}
